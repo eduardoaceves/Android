@@ -1,1 +1,1 @@
-for first commit
+Cada ejercicio esta en su respectiva rama
