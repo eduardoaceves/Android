@@ -6,10 +6,10 @@
 
 Listado de ejercicios:
 
-- **SwipeRefresh**
-  * Pull to Refresh a través de _SwipeRefreshLayout_
-- **DrawerLayout**
-  * Menu lateral o menu hamburguesa implementado con _DrawerLayout_ y _NavigationView_ Dinámico a través de un _ReciclerView_.
+>- **SwipeRefresh**
+>  * Pull to Refresh a través de _SwipeRefreshLayout_
+>- **DrawerLayout**
+>  * Menu lateral o menu hamburguesa implementado con _DrawerLayout_ y _NavigationView_ Dinámico a través de un _ReciclerView_.
   
 Cada ejercicio se encuentra en una respectiva rama, a continuación se muestra el modo de clonar cada uno de ellos:
 ```sh
