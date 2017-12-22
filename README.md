@@ -15,7 +15,7 @@ Listado de ejercicios:
 ```sh
 $ git clone -b <rama> <repositorio>
   Donde:
-   - branch: Nombre de cada ejercicio
+   - rama: Nombre de cada ejercicio
    - repositorio: https://github.com/eduardoaceves/AndroidGIT.git
 ```
 >Crear una nueva rama y subir al repositorio:
