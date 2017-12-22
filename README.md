@@ -18,6 +18,14 @@ $ git clone -b <rama> <repositorio>
    - branch: Nombre de cada ejercicio
    - repositorio: https://github.com/eduardoaceves/AndroidGIT.git
 ```
+>Crear una nueva rama y subir al repositorio:
+
+```sh
+ git checkout -b <nueva_rama>
+ git add <nombre>
+ git commit -m <nombre_del_commit>
+ git push --set-upstream origin <nueva_rama>
+```
 [logo]: https://firebasestorage.googleapis.com/v0/b/miclaro-85f32.appspot.com/o/photo.jpg?alt=media&token=ff194406-c43c-4464-9dfc-372d5220de0d
 
 
