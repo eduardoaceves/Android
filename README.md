@@ -1,4 +1,6 @@
 ## Android GIT Repositorio
-# Eduardo Aceves Adán
+### Eduardo Aceves Adán
 
-> Cada ejercicio esta en su respectiva rama
+Ejercicios del reprositorio:
+
+
