@@ -13,6 +13,12 @@ Listado de ejercicios:
     * _CircularImageView_
     * _Recyclerview_
     * _Butterknife_
+- **Carrousel**
+  * Carrusel horizontal de imagenes a través de un _ReciclerView_, el modelo de datos de realizo con _GSON_ utilizando información de _The Movie Database_.
+    * _Recyclerview_.
+    * _GSON_.
+    * _Picasso_: Con implementación de _callback_.
+    * _Butterknife_
   
 >Cada ejercicio se encuentra en una respectiva rama, a continuación se muestra el modo de clonar cada uno de ellos:
 ```sh
