@@ -19,7 +19,13 @@ Listado de ejercicios:
     * _GSON_.
     * _Picasso_: Con implementación de _callback_.
     * _Butterknife_
-  
+ - **TabLayout**
+  * _Tab Layout_ con _Material Design_, dínamico a través de un adaptador.
+    * Adaptador.
+    * _Butterknife_.
+    * _Support design_.
+    * _Butterknife_
+    
 >Cada ejercicio se encuentra en una respectiva rama, a continuación se muestra el modo de clonar cada uno de ellos:
 ```sh
 $ git clone -b <rama> <repositorio>
