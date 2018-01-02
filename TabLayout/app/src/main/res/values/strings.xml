@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TabLayout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="FragmentOne">Fragment 1</string>
+    <string name="FragmentTwo">Fragment 2</string>
+    <string name="FragmentThree">Fragment 3</string>
+    <string name="FragmentFour">Fragment 4</string>
+    <string name="FragmentFive">Fragment 5</string>
+    <string name="FragmentSix">Fragment 6</string>
+    <string name="FragmentSeven">Fragment 7</string>
+    <string name="FragmentEigth">Fragment 8</string>
+    <string name="FragmentNine">Fragment 9</string>
+    <string name="FragmentTen">Fragment 10</string>
+</resources>
